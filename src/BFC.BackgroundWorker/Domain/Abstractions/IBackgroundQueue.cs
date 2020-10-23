@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace BFC.BackgroundWorker.Domain.Abstractions
+﻿namespace BFC.BackgroundWorker.Domain.Abstractions
 {
     public interface IBackgroundQueue<T>
     {
