@@ -2,6 +2,12 @@
 
   <PropertyGroup>
     <TargetFramework>netcoreapp3.1</TargetFramework>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Authors>Bernardo Coelho</Authors>
+    <Company>Bernardo Coelho</Company>
+    <Product>BFC.BackgroundWorker</Product>
+    <RepositoryUrl>https://github.com/PAKISTANESSS/BFC.BackgroundWorker</RepositoryUrl>
+    <PackageTags>Job, Background, Worker</PackageTags>
   </PropertyGroup>
 
 </Project>
